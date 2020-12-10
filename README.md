@@ -40,7 +40,7 @@ There are 2 ways through which this CLI quiz app can be played.
 If the user appears in top three scorers, then user will have to send us a screenshot. We will update the scoreboard.
 
 ### Screenshot of quiz app
-![](Images/DoYouKnowMe_Screenshot.JPG)
+![CLI App screenshot](Images/DoYouKnowMe_Screenshot.JPG)
 
 ### Future scope
 Make scoreboard updation dynamic.
